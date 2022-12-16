@@ -4,7 +4,7 @@
  * mul - multiplies 2 nums
  * @a: first param
  * @b: second param
- * Return: something
+ * Return: return result
  */
 
 int mul(int a, int b)
